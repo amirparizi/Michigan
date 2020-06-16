@@ -9,3 +9,5 @@ insight into their data. In the final course, students will work on
 real-world data analysis projects, building a portfolio which
 showcases their work while at the same time helping real clients
 gain a better understanding of their data.
+
+Here you can find selected projects from this certificate
