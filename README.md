@@ -1,4 +1,4 @@
-# Readme
+# Michigan-Applied-Data-Science-with-Python
 The 5 courses in this University of Michigan specialization
 introduce learners to data science through the python
 programming language. This skills-based specialization is
